@@ -28,7 +28,3 @@ A continuación, se detalla la organización de los archivos en este portafolio:
 
 * 📁 **[APE](./APE.md)**: Aqui se encuantran todos los APE realizados en la unidad.
 
----
-
-## 🛠️ Herramientas y Lenguajes
-* *(Opcional: Puedes listar aquí lo que uses, por ejemplo: Python, R, RStudio, Markdown, etc.)*

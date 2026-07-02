@@ -26,7 +26,7 @@ En este repositorio se recopila el código, los ejercicios prácticos y las nota
 
 A continuación, se detalla la organización de los archivos en este portafolio:
 
-* 📁 **[APE](./APE.MD)**: Aqui se encuantran todos los APE realizados en la unidad.
+* 📁 **[APE](./APE.md)**: Aqui se encuantran todos los APE realizados en la unidad.
 
 ---
 

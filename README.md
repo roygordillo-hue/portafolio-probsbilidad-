@@ -26,10 +26,7 @@ En este repositorio se recopila el código, los ejercicios prácticos y las nota
 
 A continuación, se detalla la organización de los archivos en este portafolio:
 
-* 📁 **[Unidad_1](./Unidad_1)**: Conceptos básicos de probabilidad, espacios muestrales y eventos.
-* 📁 **[Unidad_2](./Unidad_2)**: Variables aleatorias y distribuciones de probabilidad.
-* 📁 **[Proyectos](./Proyectos)**: Casos de estudio y trabajos finales de la materia.
-* 📁 **[Tareas](./Tareas)**: Resoluciones de deberes y guías de ejercicios.
+* 📁 **[APE](./Unidad_1)**: Aqui se encuantran todos los APE realizados en la unidad.
 
 ---
 

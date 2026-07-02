@@ -12,4 +12,4 @@ A continuación, se detallan los informes y prácticas correspondientes a los AP
 7. 📂 [APE 7](./APE_007_TLC.ipynb)
 8. 📂 [APE 8](./APE_008_Intervalos.ipynb)
 9. 📂 [APE 9](./APE_009_Intervalos.ipynb)
-10. 📂 [APE 10](./APE10.md)
+10. 📂 [APE 10](./APE_011_DosMuestras.ipynb)

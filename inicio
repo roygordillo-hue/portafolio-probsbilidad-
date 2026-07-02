@@ -1,24 +1,25 @@
-# 📊 Portafolio Estudiantil - Teoría de la Probabilidad
+# 🏛️ Universidad Nacional de Loja
 
-¡Bienvenido a mi repositorio! Este espacio está destinado a documentar, almacenar y organizar los trabajos, proyectos y apuntes desarrollados durante el curso.
+## 📊 Portafolio Estudiantil: Teoría de la Probabilidad
+
+¡Bienvenido a mi repositorio! Este espacio está destinado a documentar, almacenar y organizar todos los trabajos, proyectos, tareas y apuntes desarrollados durante el ciclo académico en esta asignatura.
 
 ---
 
-## 🎓 Información Académica
+## 👤 Datos Informativos
 
 | Detalle | Información |
 | :--- | :--- |
-| **Universidad** | Universidad Nacional de Loja (UNL) |
-| **Materia** | Teoría de la Probabilidad |
 | **Estudiante** | Roy Gordillo |
+| **Carrera** | [Ingresa aquí tu carrera, ej: Ingeniería en Computación / Sistemas] |
+| **Asignatura** | Teoría de la Probabilidad |
 | **Docente** | Cristian Narváez Guillén |
+| **Ciclo / Semestre** | [Ingresa tu ciclo, ej: Tercer Ciclo] |
 
 ---
 
-## 📝 Descripción
-Este portafolio contiene el código, los ejercicios prácticos y las notas teóricas de la asignatura. El objetivo principal es aplicar los conceptos de probabilidad y estadística mediante herramientas tecnológicas.
-
-*(Opcional: Aquí puedes agregar qué tecnologías vas a usar, por ejemplo: Python, R, Jupyter Notebooks, Excel, etc.)*
+## 📝 Descripción del Curso
+En este repositorio se recopila el código, los ejercicios prácticos y las notas teóricas correspondientes a la materia. El objetivo principal es aplicar los conceptos de probabilidad y estadística mediante herramientas tecnológicas y análisis de datos.
 
 ---
 
@@ -34,5 +35,4 @@ A continuación, se detalla la organización de los archivos en este portafolio:
 ---
 
 ## 🛠️ Herramientas y Lenguajes
-* *(Ejemplo: Python, Markdown, R)*
-* *(Ejemplo: Librerías como NumPy, Pandas, Matplotlib)*
+* *(Opcional: Puedes listar aquí lo que uses, por ejemplo: Python, R, RStudio, Markdown, etc.)*

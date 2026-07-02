@@ -10,6 +10,6 @@ A continuación, se detallan los informes y prácticas correspondientes a los AP
 5. 📂 [APE 5](./APE05(1).ipynb)
 6. 📂 [APE 6](./APE006_GrupoB.ipynb)
 7. 📂 [APE 7](./APE_007_TLC.ipynb)
-8. 📂 [APE 8](./APE8.md)
+8. 📂 [APE 8](./APE_008_Intervalos.ipynb)
 9. 📂 [APE 9](./APE9.md)
 10. 📂 [APE 10](./APE10.md)

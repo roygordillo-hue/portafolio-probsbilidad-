@@ -7,7 +7,7 @@ A continuación, se detallan los informes y prácticas correspondientes a los AP
 2. 📂 [APE 2](./APE02.ipynb)
 3. 📂 [APE 3](./ape03.ipynb)
 4. 📂 [APE 4](./APE04.ipynb)  
-5. 📂 [APE 5](./APE5.md)
+5. 📂 [APE 5](./)
 6. 📂 [APE 6](./APE6.md)
 7. 📂 [APE 7](./APE7.md)
 8. 📂 [APE 8](./APE8.md)

@@ -14,4 +14,4 @@ A continuación, se detallan los informes y prácticas correspondientes a los AP
 9. 📂 [APE 9](./APE_009_Intervalos.ipynb)
 10. 📂 [APE 10](./APE_011_DosMuestras.ipynb)
 
-📂 [inicio](./README.md)
+<h1 align="center">📂 [inicio](./README.md)</h1>

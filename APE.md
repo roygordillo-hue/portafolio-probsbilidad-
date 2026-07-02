@@ -2,7 +2,7 @@
 
 A continuación, se detallan los informes y prácticas correspondientes a los APE de la asignatura:
 
-1. 📂 [APE 1](./APE1.md)
+1. 📂 [APE 1](./APE01.ipynb)
 2. 📂 [APE 2](./APE2.md)
 3. 📂 [APE 3](./APE3.md)
 4. 📂 [APE 4](./APE4.md)  
